@@ -7,7 +7,7 @@ const IndexPage = () => (
         <Head title="Home" />
         <h2>Hello Gatsby!</h2>
         <p>
-            I'm Antonio, this is a demo while playground learning the great
+            I'm Antonio, this is a demo playground while learning the great
             Gatsby!
         </p>
     </Layout>
